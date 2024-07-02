@@ -1,0 +1,4 @@
+name: EventListeners
+version: '${project.version}'
+main: me.frostwolf74.eventlisteners.EventListeners
+api-version: '1.20'
