@@ -1,1 +1,1 @@
-A repository for personal plugin development 
+A repository for personal minecraft plugin development 
